@@ -16,17 +16,10 @@ Hi, I'm **Nadeem Chaudhary** 👨‍💻, a **MERN Stack Developer** who loves b
 
 ## 📊 GitHub Stats:  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadeemChaudhary16&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>  
+    <img src="https://github-readme-stats.vercel.app/api?username=NadeemChaudhary16&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemChaudhary16&theme=dark" alt="GitHub Streak" />
-</p>  
-
-## ✍️ Dev Quote:  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>  
+</p>   
+  
 
 ## 🔥 Profile Visits:  
 <p align="center">
